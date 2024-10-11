@@ -3,7 +3,7 @@
  👨‍🎓 Cursando Engenharia de Software e Engenharia Mecânica
 
 <div align="center" dir="auto">
-  <a href="https://github.com/JedsonOliveira-dev/JedsonOliveira">
+  <a href="https://github-readme-stats.vercel.app/api?username=JedsonOliveira-dev&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JedsonOliveira-dev&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
 </a></div>
 
