@@ -1,6 +1,6 @@
 # Olá! Podem me chamar de Jedson. 
 
- 👨‍🎓 Cursando Engenharia de Software e Engenharia Mecânica
+ 👨‍🎓 Cursando Engenharia Mecânica
 
 <div align="center" dir="auto">
   <a href="https://github-readme-stats.vercel.app/api?username=JedsonOliveira-dev&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true">
