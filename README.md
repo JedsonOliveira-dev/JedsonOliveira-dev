@@ -1,6 +1,19 @@
 # Olá! Podem me chamar de Jedson. 
 
- 👨‍🎓 Cursando Engenharia Mecânica
+ 🌟 Bem-vindo ao meu GitHub! 🌟
+
+Aqui você encontrará uma coleção dos meus projetos e experimentos em programação. Estou sempre buscando aprender e compartilhar conhecimento, então sinta-se à vontade para explorar, contribuir ou apenas deixar um comentário!
+
+💻 Tecnologias que amo:
+- Python
+- JavaScript
+- HTML & CSS
+
+🔍 Atualmente, estou trabalhando em:
+- Projetos pessoais, criação de alguns e-comerces e aplicações web. 
+
+Vamos codar juntos! 🚀
+
 
 <div align="center" dir="auto">
   <a href="https://github-readme-stats.vercel.app/api?username=JedsonOliveira-dev&amp;show_icons=true&amp;theme=merko&amp;include_all_commits=true&amp;count_private=true">
